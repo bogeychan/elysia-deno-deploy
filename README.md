@@ -21,3 +21,7 @@ To deploy a new project visit your [Deno Projects - Dashboard](https://dash.deno
 
 1. Fork this repository
 2. Create a project from GitHub
+
+   ![Settings](./misc/deno-deploy-settings.png)
+
+3. Create & Deploy
